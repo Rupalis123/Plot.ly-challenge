@@ -5,4 +5,4 @@
 ### in th advance challenge utilized Gauge Chart from https://plot.ly/javascript/gauge-charts/ to plot the weekly washing frequency of the individual.
 
 # Deployment
-## Deployed app to GitHub Pages. 
+## future scope
